@@ -1,3 +1,6 @@
 /node_modules
 */node_modules
 */**/node_modules
+*/big-file
+*/**/big-file
+/7.1/big-file
